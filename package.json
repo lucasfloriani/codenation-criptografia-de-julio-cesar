@@ -1,0 +1,30 @@
+{
+  "name": "codenation-criptografia-de-julio-cesar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasfloriani/codenation-criptografia-de-julio-cesar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasfloriani/codenation-criptografia-de-julio-cesar/issues"
+  },
+  "homepage": "https://github.com/lucasfloriani/codenation-criptografia-de-julio-cesar#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "form-data": "^2.3.3",
+    "node-fetch": "^2.6.0",
+    "node-sha1": "^1.0.1"
+  }
+}
